@@ -1,10 +1,10 @@
 export const Bio = {
   name: "Franco Romero",
   roles: [
-    "Desarrollador Frontend",
+    "Desarrollador FullStack",
   ],
   description:
-    "Soy un desarrollador junior con una sólida base de conocimientos adquirida durante dos años de formación. Aunque soy nuevo en la industria, estoy ansioso por aplicar mis habilidades y aprender de cada experiencia. Mi meta está en crecer profesionalmente mientras contribuyo con entusiasmo y dedicación a proyectos desafiantes. Estoy emocionado por la oportunidad de trabajar en equipo y contribuir al éxito de cualquier proyecto que se me presente.",
+    "Soy un desarrollador junior con una sólida base de conocimientos adquirida durante dos años de formación, considero mi fuerte el frontend por ahora, pero estoy aprendiendo backend a pasos agigantados. Aunque soy nuevo en la industria, estoy ansioso por aplicar mis habilidades y aprender de cada experiencia. Mi meta está en crecer profesionalmente mientras contribuyo con entusiasmo y dedicación a proyectos desafiantes. Estoy emocionado por la oportunidad de trabajar en equipo y contribuir al éxito de cualquier proyecto que se me presente.",
   github: "https://github.com/franconahuelr",
   resume:
     "https://drive.google.com/file/d/1IHOLhZPi2jysY6VCZ6QXhYsrssP7f-lE/view?usp=sharing",
@@ -58,6 +58,14 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name:"C#",
+        image:"https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen-768x768.png.webp"
+      },
+      {
+        name:".Net",
+        image:"https://www.muylinux.com/wp-content/uploads/2017/08/NET.png"
+      }
     ],
   },
   {
